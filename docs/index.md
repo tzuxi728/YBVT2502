@@ -21,7 +21,7 @@ nav_order: 1
 | 📘 Лекции | Видеозаписи занятий, конспекты и рабочие материалы | [`Лекции/`]({{ site.github.repository_url }}/tree/{{ site.github.build_revision }}/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8) | `/lectures/` |
 | 🛠 Инструкции | Пошаговые руководства и рабочие процессы | [`Инструкции/`]({{ site.github.repository_url }}/tree/{{ site.github.build_revision }}/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8) | `/guides/` |
 
-> Чтобы открыть нужную страницу, добавьте путь к базовому домену GitHub Pages репозитория.
+> Стартовая страница сайта: `https://tzux1.github.io/YBVT2502/`. Добавьте путь из таблицы к этому адресу, чтобы открыть нужный раздел (например, `/lectures/` → `https://tzux1.github.io/YBVT2502/lectures/`).
 
 ## Дисциплины потока УБВТ2501-04
 
