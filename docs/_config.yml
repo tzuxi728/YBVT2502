@@ -1,15 +1,23 @@
 # Настройки сайта GitHub Pages
 lang: ru
 remote_theme: just-the-docs/just-the-docs
+
 title: "УВБТ 2502"
-description: "Единая база знаний по дисциплинам"
-color_scheme: nil
+description: "Единая база знаний группы по дисциплинам"
+
+# Внешний вид
+color_scheme: light
 search_enabled: true
-logo:
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Наверх"
+
+# Ссылки в шапке
 aux_links:
   "Репозиторий на GitHub": "{{ site.github.repository_url }}"
 aux_links_new_tab: true
-footer_content: "Сайт автоматически собирается GitHub Pages."
+
+footer_content: "Сайт автоматически собирается из каталога <code>docs/</code> с помощью GitHub Pages."
 
 # Структура навигации
 just_the_docs:
