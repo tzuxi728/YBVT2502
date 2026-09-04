@@ -3,7 +3,7 @@
 Единая база знаний группы **УВБТ 2502**: лекции, видеозаписи занятий, инструкции и дополнительные материалы по дисциплинам.
 
 <p align="center">
-  <a href="https://tzux1.github.io/YBVT2502/">
+  <a href="https://tzuxi728.github.io/YBVT2502/">
     <img src="https://img.shields.io/badge/📚%20Открыть%20сайт-YBVT2502-success?style=for-the-badge" alt="GitHub Pages"/>
   </a>
 </p>
@@ -14,8 +14,8 @@
 ## 🌐 Публикация сайта
 
 - Статический сайт GitHub Pages собирается из каталога [`docs/`](./docs/).
-- Базовый адрес сайта: [`https://tzux1.github.io/YBVT2502/`](https://tzux1.github.io/YBVT2502/).
-- Чтобы открыть конкретный раздел, добавьте путь страницы к базовому адресу, например `/lectures/` → `https://tzux1.github.io/YBVT2502/lectures/`.
+- Базовый адрес сайта: [`https://tzuxi728.github.io/YBVT2502/`](https://tzuxi728.github.io/YBVT2502/).
+- Чтобы открыть конкретный раздел, добавьте путь страницы к базовому адресу, например `/lectures/` → `https://tzuxi728.github.io/YBVT2502/lectures/`.
 
 ---
 
@@ -44,4 +44,4 @@
 | Теоретические основы современного информационного общества (УБВТ2501-04) | [`Лекции/Теоретические основы современного информационного общества (УБВТ2501-04)`](./%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20(%D0%A3%D0%91%D0%92%D0%A22501-04)/) | `/lectures/modern-information-society/` |
 
 ---
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tzux1.YBVT2502)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tzuxi728.YBVT2502)
